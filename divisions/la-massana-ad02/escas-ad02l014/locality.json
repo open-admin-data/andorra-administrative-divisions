@@ -1,0 +1,45 @@
+{
+  "id": "AD02L014",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Escas",
+    "en": "Escas",
+    "slug": "escas-ad02l014"
+  },
+  "code": {
+    "id": "AD02L014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD02",
+    "level": 1,
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.546",
+    "lon": "1.509"
+  },
+  "metadata": {},
+  "source": {}
+}

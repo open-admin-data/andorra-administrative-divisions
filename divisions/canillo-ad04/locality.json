@@ -1,0 +1,407 @@
+[
+  {
+    "id": "AD04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04l002"
+    },
+    "code": {
+      "id": "AD04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.567",
+      "lon": "1.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "el Tarter",
+      "en": "el Tarter",
+      "slug": "el-tarter-ad04l001"
+    },
+    "code": {
+      "id": "AD04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Vilar",
+      "en": "El Vilar",
+      "slug": "el-vilar-ad04l006"
+    },
+    "code": {
+      "id": "AD04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.572",
+      "lon": "1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Els Plans",
+      "en": "Els Plans",
+      "slug": "els-plans-ad04l005"
+    },
+    "code": {
+      "id": "AD04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Incles",
+      "en": "Incles",
+      "slug": "incles-ad04l008"
+    },
+    "code": {
+      "id": "AD04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.583",
+      "lon": "1.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "l'Aldosa de canillo",
+      "en": "l'Aldosa de canillo",
+      "slug": "l-aldosa-de-canillo-ad04l003"
+    },
+    "code": {
+      "id": "AD04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.579",
+      "lon": "1.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ransol",
+      "en": "Ransol",
+      "slug": "ransol-ad04l004"
+    },
+    "code": {
+      "id": "AD04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sant Joan de Caselles",
+      "en": "Sant Joan de Caselles",
+      "slug": "sant-joan-de-caselles-ad04l009"
+    },
+    "code": {
+      "id": "AD04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.571",
+      "lon": "1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Soldeu",
+      "en": "Soldeu",
+      "slug": "soldeu-ad04l007"
+    },
+    "code": {
+      "id": "AD04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.577",
+      "lon": "1.668"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

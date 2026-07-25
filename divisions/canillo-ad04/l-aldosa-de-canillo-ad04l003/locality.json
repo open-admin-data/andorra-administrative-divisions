@@ -1,0 +1,45 @@
+{
+  "id": "AD04L003",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "l'Aldosa de canillo",
+    "en": "l'Aldosa de canillo",
+    "slug": "l-aldosa-de-canillo-ad04l003"
+  },
+  "code": {
+    "id": "AD04L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD04",
+    "level": 1,
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.579",
+    "lon": "1.629"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AD04L002",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Canillo",
+    "en": "Canillo",
+    "slug": "canillo-ad04l002"
+  },
+  "code": {
+    "id": "AD04L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD04",
+    "level": 1,
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.567",
+    "lon": "1.599"
+  },
+  "metadata": {},
+  "source": {}
+}

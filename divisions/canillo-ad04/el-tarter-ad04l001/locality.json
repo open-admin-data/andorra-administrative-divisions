@@ -1,0 +1,45 @@
+{
+  "id": "AD04L001",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "el Tarter",
+    "en": "el Tarter",
+    "slug": "el-tarter-ad04l001"
+  },
+  "code": {
+    "id": "AD04L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD04",
+    "level": 1,
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.581",
+    "lon": "1.652"
+  },
+  "metadata": {},
+  "source": {}
+}

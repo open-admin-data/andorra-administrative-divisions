@@ -1,0 +1,632 @@
+[
+  {
+    "id": "AD07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixas",
+      "en": "Aixas",
+      "slug": "aixas-ad07l013"
+    },
+    "code": {
+      "id": "AD07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.486",
+      "lon": "1.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixirivall",
+      "en": "Aixirivall",
+      "slug": "aixirivall-ad07l007"
+    },
+    "code": {
+      "id": "AD07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.463",
+      "lon": "1.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixovall",
+      "en": "Aixovall",
+      "slug": "aixovall-ad07l009"
+    },
+    "code": {
+      "id": "AD07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.476",
+      "lon": "1.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aubinya",
+      "en": "Aubinya",
+      "slug": "aubinya-ad07l011"
+    },
+    "code": {
+      "id": "AD07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.453",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bixessarri",
+      "en": "Bixessarri",
+      "slug": "bixessarri-ad07l005"
+    },
+    "code": {
+      "id": "AD07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.482",
+      "lon": "1.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Certers",
+      "en": "Certers",
+      "slug": "certers-ad07l006"
+    },
+    "code": {
+      "id": "AD07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.475",
+      "lon": "1.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fontaneda",
+      "en": "Fontaneda",
+      "slug": "fontaneda-ad07l008"
+    },
+    "code": {
+      "id": "AD07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.454",
+      "lon": "1.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Juberri",
+      "en": "Juberri",
+      "slug": "juberri-ad07l003"
+    },
+    "code": {
+      "id": "AD07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.441",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Margineda",
+      "en": "La Margineda",
+      "slug": "la-margineda-ad07l014"
+    },
+    "code": {
+      "id": "AD07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.486",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad07l002"
+    },
+    "code": {
+      "id": "AD07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.485",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Llumeneres",
+      "en": "Llumeneres",
+      "slug": "llumeneres-ad07l010"
+    },
+    "code": {
+      "id": "AD07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.472",
+      "lon": "1.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mas d'Alins",
+      "en": "Mas d'Alins",
+      "slug": "mas-d-alins-ad07l004"
+    },
+    "code": {
+      "id": "AD07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.441",
+      "lon": "1.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nagol",
+      "en": "Nagol",
+      "slug": "nagol-ad07l012"
+    },
+    "code": {
+      "id": "AD07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.471",
+      "lon": "1.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-la-ria-ad07l001"
+    },
+    "code": {
+      "id": "AD07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.467",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "AD03L005",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Llorts",
+    "en": "Llorts",
+    "slug": "llorts-ad03l005"
+  },
+  "code": {
+    "id": "AD03L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD03",
+    "level": 1,
+    "name": {
+      "local": "Ordino",
+      "en": "Ordino",
+      "slug": "ordino-ad03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.596",
+    "lon": "1.527"
+  },
+  "metadata": {},
+  "source": {}
+}

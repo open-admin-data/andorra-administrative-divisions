@@ -1,0 +1,79 @@
+# La Massana — Andorra Administrative Divisions
+
+> 14 localitys
+> Code: AD02
+> Coordinates: 42.554, 1.463
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Anyós
+
+Code: AD02L007, Coordinates: 42.535, 1.525
+
+
+### Arinsal
+
+Code: AD02L004, Coordinates: 42.572, 1.485
+
+
+### Erts
+
+Code: AD02L009, Coordinates: 42.562, 1.497
+
+
+### Escas
+
+Code: AD02L014, Coordinates: 42.546, 1.509
+
+
+### L&#39;Aldosa
+
+Code: AD02L010, Coordinates: 42.544, 1.523
+
+
+### La Massana
+
+Code: AD02L002, Coordinates: 42.573, 1.485
+
+
+### Mas de Ribafeta
+
+Code: AD02L006, Coordinates: 42.569, 1.488
+
+
+### Ordino
+
+Code: AD02L001, Coordinates: 42.556, 1.533
+
+
+### Pal
+
+Code: AD02L005, Coordinates: 42.546, 1.475
+
+
+### Puiol del Piu
+
+Code: AD02L012, Coordinates: 42.565, 1.492
+
+
+### Segudet
+
+Code: AD02L013, Coordinates: 42.557, 1.538
+
+
+### Sispony
+
+Code: AD02L003, Coordinates: 42.534, 1.516
+
+
+### Sornàs
+
+Code: AD02L008, Coordinates: 42.565, 1.529
+
+
+### Xixerella
+
+Code: AD02L011, Coordinates: 42.553, 1.487
+
+

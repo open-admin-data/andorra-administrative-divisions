@@ -1,0 +1,317 @@
+[
+  {
+    "id": "AD03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ansalonga",
+      "en": "Ansalonga",
+      "slug": "ansalonga-ad03l001"
+    },
+    "code": {
+      "id": "AD03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.569",
+      "lon": "1.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arans",
+      "en": "Arans",
+      "slug": "arans-ad03l002"
+    },
+    "code": {
+      "id": "AD03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.582",
+      "lon": "1.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Serrat",
+      "en": "El Serrat",
+      "slug": "el-serrat-ad03l003"
+    },
+    "code": {
+      "id": "AD03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.618",
+      "lon": "1.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Cortinada",
+      "en": "La Cortinada",
+      "slug": "la-cortinada-ad03l004"
+    },
+    "code": {
+      "id": "AD03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.574",
+      "lon": "1.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Les Salines",
+      "en": "Les Salines",
+      "slug": "les-salines-ad03l007"
+    },
+    "code": {
+      "id": "AD03L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.61",
+      "lon": "1.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Les Sobiranes",
+      "en": "Les Sobiranes",
+      "slug": "les-sobiranes-ad03l006"
+    },
+    "code": {
+      "id": "AD03L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.62",
+      "lon": "1.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Llorts",
+      "en": "Llorts",
+      "slug": "llorts-ad03l005"
+    },
+    "code": {
+      "id": "AD03L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.596",
+      "lon": "1.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "AD05",
+  "level": 1,
+  "level_name": {
+    "local": "Parròquia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Encamp",
+    "en": "Encamp",
+    "slug": "encamp-ad05"
+  },
+  "code": {
+    "id": "AD05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.541",
+    "lon": "1.66"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ad/parishes/encamp-ad05/",
+    "api": "https://openadmindata.org/api/ad/"
+  }
+}

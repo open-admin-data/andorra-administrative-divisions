@@ -1,0 +1,64 @@
+# Andorra Administrative Divisions
+
+> Open dataset of Andorra's administrative hierarchy:
+> 7 parishs, 56 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total parishs: 7
+- Total localitys: 56
+- Coordinates: included (all levels)
+- Last updated: 2026-07-25
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All parishs (JSON)](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/data/all-parish.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/data/schema.json)
+
+## Browse by Parish
+
+- [Andorra la Vella](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/andorra-la-vella-ad01/) — 1 localitys
+- [La Massana](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/la-massana-ad02/) — 14 localitys
+- [Ordino](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/ordino-ad03/) — 7 localitys
+- [Canillo](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/canillo-ad04/) — 9 localitys
+- [Encamp](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/encamp-ad05/) — 7 localitys
+- [Escaldes-Engordany](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/escaldes-engordany-ad06/) — 4 localitys
+- [Sant Julià de Lòria](https://github.com/open-admin-data/andorra-administrative-divisions/tree/main/divisions/sant-julia-de-loria-ad07/) — 14 localitys
+
+## Per-Parish Full Data
+
+- [Andorra la Vella](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/andorra-la-vella-ad01.txt)
+- [La Massana](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/la-massana-ad02.txt)
+- [Ordino](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/ordino-ad03.txt)
+- [Canillo](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/canillo-ad04.txt)
+- [Encamp](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/encamp-ad05.txt)
+- [Escaldes-Engordany](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/escaldes-engordany-ad06.txt)
+- [Sant Julià de Lòria](https://raw.githubusercontent.com/open-admin-data/andorra-administrative-divisions/main/docs/llms-full/sant-julia-de-loria-ad07.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (parish), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Andorra Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/andorra-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

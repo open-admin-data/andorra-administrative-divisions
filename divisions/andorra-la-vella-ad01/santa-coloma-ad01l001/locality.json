@@ -1,0 +1,45 @@
+{
+  "id": "AD01L001",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Santa Coloma",
+    "en": "Santa Coloma",
+    "slug": "santa-coloma-ad01l001"
+  },
+  "code": {
+    "id": "AD01L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD01",
+    "level": 1,
+    "name": {
+      "local": "Andorra la Vella",
+      "en": "Andorra la Vella",
+      "slug": "andorra-la-vella-ad01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD01",
+      "level": 1,
+      "name": {
+        "local": "Andorra la Vella",
+        "en": "Andorra la Vella",
+        "slug": "andorra-la-vella-ad01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.5",
+    "lon": "1.5"
+  },
+  "metadata": {},
+  "source": {}
+}

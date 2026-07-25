@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "AD04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "el Tarter",
+      "en": "el Tarter",
+      "slug": "el-tarter-ad04l001"
+    },
+    "code": {
+      "id": "AD04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-la-ria-ad07l001"
+    },
+    "code": {
+      "id": "AD07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.467",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ordino",
+      "en": "Ordino",
+      "slug": "ordino-ad02l001"
+    },
+    "code": {
+      "id": "AD02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.556",
+      "lon": "1.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04l002"
+    },
+    "code": {
+      "id": "AD04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.567",
+      "lon": "1.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02l002"
+    },
+    "code": {
+      "id": "AD02L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.573",
+      "lon": "1.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad07l002"
+    },
+    "code": {
+      "id": "AD07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.485",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ansalonga",
+      "en": "Ansalonga",
+      "slug": "ansalonga-ad03l001"
+    },
+    "code": {
+      "id": "AD03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.569",
+      "lon": "1.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Juberri",
+      "en": "Juberri",
+      "slug": "juberri-ad07l003"
+    },
+    "code": {
+      "id": "AD07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.441",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mas d'Alins",
+      "en": "Mas d'Alins",
+      "slug": "mas-d-alins-ad07l004"
+    },
+    "code": {
+      "id": "AD07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.441",
+      "lon": "1.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Prats",
+      "en": "Prats",
+      "slug": "prats-ad05l001"
+    },
+    "code": {
+      "id": "AD05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.56",
+      "lon": "1.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "l'Aldosa de canillo",
+      "en": "l'Aldosa de canillo",
+      "slug": "l-aldosa-de-canillo-ad04l003"
+    },
+    "code": {
+      "id": "AD04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.579",
+      "lon": "1.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sispony",
+      "en": "Sispony",
+      "slug": "sispony-ad02l003"
+    },
+    "code": {
+      "id": "AD02L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.534",
+      "lon": "1.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arinsal",
+      "en": "Arinsal",
+      "slug": "arinsal-ad02l004"
+    },
+    "code": {
+      "id": "AD02L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.572",
+      "lon": "1.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ransol",
+      "en": "Ransol",
+      "slug": "ransol-ad04l004"
+    },
+    "code": {
+      "id": "AD04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meritxell",
+      "en": "Meritxell",
+      "slug": "meritxell-ad05l002"
+    },
+    "code": {
+      "id": "AD05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.554",
+      "lon": "1.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pal",
+      "en": "Pal",
+      "slug": "pal-ad02l005"
+    },
+    "code": {
+      "id": "AD02L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.546",
+      "lon": "1.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bixessarri",
+      "en": "Bixessarri",
+      "slug": "bixessarri-ad07l005"
+    },
+    "code": {
+      "id": "AD07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.482",
+      "lon": "1.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mas de Ribafeta",
+      "en": "Mas de Ribafeta",
+      "slug": "mas-de-ribafeta-ad02l006"
+    },
+    "code": {
+      "id": "AD02L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.569",
+      "lon": "1.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anyós",
+      "en": "Anyós",
+      "slug": "anyos-ad02l007"
+    },
+    "code": {
+      "id": "AD02L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.535",
+      "lon": "1.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arans",
+      "en": "Arans",
+      "slug": "arans-ad03l002"
+    },
+    "code": {
+      "id": "AD03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.582",
+      "lon": "1.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05l003"
+    },
+    "code": {
+      "id": "AD05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.535",
+      "lon": "1.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Els Plans",
+      "en": "Els Plans",
+      "slug": "els-plans-ad04l005"
+    },
+    "code": {
+      "id": "AD04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.581",
+      "lon": "1.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Santa Coloma",
+      "en": "Santa Coloma",
+      "slug": "santa-coloma-ad01l001"
+    },
+    "code": {
+      "id": "AD01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD01",
+      "level": 1,
+      "name": {
+        "local": "Andorra la Vella",
+        "en": "Andorra la Vella",
+        "slug": "andorra-la-vella-ad01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD01",
+        "level": 1,
+        "name": {
+          "local": "Andorra la Vella",
+          "en": "Andorra la Vella",
+          "slug": "andorra-la-vella-ad01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.5",
+      "lon": "1.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L008",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sornàs",
+      "en": "Sornàs",
+      "slug": "sorna-s-ad02l008"
+    },
+    "code": {
+      "id": "AD02L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.565",
+      "lon": "1.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Serrat",
+      "en": "El Serrat",
+      "slug": "el-serrat-ad03l003"
+    },
+    "code": {
+      "id": "AD03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.618",
+      "lon": "1.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Certers",
+      "en": "Certers",
+      "slug": "certers-ad07l006"
+    },
+    "code": {
+      "id": "AD07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.475",
+      "lon": "1.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vila",
+      "en": "Vila",
+      "slug": "vila-ad06l001"
+    },
+    "code": {
+      "id": "AD06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD06",
+        "level": 1,
+        "name": {
+          "local": "Escaldes-Engordany",
+          "en": "Escaldes-Engordany",
+          "slug": "escaldes-engordany-ad06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.532",
+      "lon": "1.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L009",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Erts",
+      "en": "Erts",
+      "slug": "erts-ad02l009"
+    },
+    "code": {
+      "id": "AD02L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.562",
+      "lon": "1.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pas de la Case",
+      "en": "Pas de la Case",
+      "slug": "pas-de-la-case-ad05l004"
+    },
+    "code": {
+      "id": "AD05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.543",
+      "lon": "1.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixirivall",
+      "en": "Aixirivall",
+      "slug": "aixirivall-ad07l007"
+    },
+    "code": {
+      "id": "AD07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.463",
+      "lon": "1.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fontaneda",
+      "en": "Fontaneda",
+      "slug": "fontaneda-ad07l008"
+    },
+    "code": {
+      "id": "AD07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.454",
+      "lon": "1.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Vilar",
+      "en": "El Vilar",
+      "slug": "el-vilar-ad04l006"
+    },
+    "code": {
+      "id": "AD04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.572",
+      "lon": "1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Soldeu",
+      "en": "Soldeu",
+      "slug": "soldeu-ad04l007"
+    },
+    "code": {
+      "id": "AD04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.577",
+      "lon": "1.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Cortinada",
+      "en": "La Cortinada",
+      "slug": "la-cortinada-ad03l004"
+    },
+    "code": {
+      "id": "AD03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.574",
+      "lon": "1.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Llorts",
+      "en": "Llorts",
+      "slug": "llorts-ad03l005"
+    },
+    "code": {
+      "id": "AD03L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.596",
+      "lon": "1.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L010",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "L'Aldosa",
+      "en": "L'Aldosa",
+      "slug": "l-aldosa-ad02l010"
+    },
+    "code": {
+      "id": "AD02L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.544",
+      "lon": "1.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bordes d'Envalira",
+      "en": "Bordes d'Envalira",
+      "slug": "bordes-d-envalira-ad05l005"
+    },
+    "code": {
+      "id": "AD05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.56",
+      "lon": "1.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixovall",
+      "en": "Aixovall",
+      "slug": "aixovall-ad07l009"
+    },
+    "code": {
+      "id": "AD07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.476",
+      "lon": "1.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L011",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Xixerella",
+      "en": "Xixerella",
+      "slug": "xixerella-ad02l011"
+    },
+    "code": {
+      "id": "AD02L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.553",
+      "lon": "1.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Llumeneres",
+      "en": "Llumeneres",
+      "slug": "llumeneres-ad07l010"
+    },
+    "code": {
+      "id": "AD07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.472",
+      "lon": "1.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aubinya",
+      "en": "Aubinya",
+      "slug": "aubinya-ad07l011"
+    },
+    "code": {
+      "id": "AD07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.453",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ramio",
+      "en": "Ramio",
+      "slug": "ramio-ad06l002"
+    },
+    "code": {
+      "id": "AD06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD06",
+        "level": 1,
+        "name": {
+          "local": "Escaldes-Engordany",
+          "en": "Escaldes-Engordany",
+          "slug": "escaldes-engordany-ad06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.497",
+      "lon": "1.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Incles",
+      "en": "Incles",
+      "slug": "incles-ad04l008"
+    },
+    "code": {
+      "id": "AD04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.583",
+      "lon": "1.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Les Sobiranes",
+      "en": "Les Sobiranes",
+      "slug": "les-sobiranes-ad03l006"
+    },
+    "code": {
+      "id": "AD03L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.62",
+      "lon": "1.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nagol",
+      "en": "Nagol",
+      "slug": "nagol-ad07l012"
+    },
+    "code": {
+      "id": "AD07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.471",
+      "lon": "1.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sant Joan de Caselles",
+      "en": "Sant Joan de Caselles",
+      "slug": "sant-joan-de-caselles-ad04l009"
+    },
+    "code": {
+      "id": "AD04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD04",
+        "level": 1,
+        "name": {
+          "local": "Canillo",
+          "en": "Canillo",
+          "slug": "canillo-ad04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.571",
+      "lon": "1.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L012",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Puiol del Piu",
+      "en": "Puiol del Piu",
+      "slug": "puiol-del-piu-ad02l012"
+    },
+    "code": {
+      "id": "AD02L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.565",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sant Miquel d'Engolasters",
+      "en": "Sant Miquel d'Engolasters",
+      "slug": "sant-miquel-d-engolasters-ad06l003"
+    },
+    "code": {
+      "id": "AD06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD06",
+        "level": 1,
+        "name": {
+          "local": "Escaldes-Engordany",
+          "en": "Escaldes-Engordany",
+          "slug": "escaldes-engordany-ad06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.511",
+      "lon": "1.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aixas",
+      "en": "Aixas",
+      "slug": "aixas-ad07l013"
+    },
+    "code": {
+      "id": "AD07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.486",
+      "lon": "1.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L013",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Segudet",
+      "en": "Segudet",
+      "slug": "segudet-ad02l013"
+    },
+    "code": {
+      "id": "AD02L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.557",
+      "lon": "1.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Engordany",
+      "en": "Engordany",
+      "slug": "engordany-ad06l004"
+    },
+    "code": {
+      "id": "AD06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD06",
+        "level": 1,
+        "name": {
+          "local": "Escaldes-Engordany",
+          "en": "Escaldes-Engordany",
+          "slug": "escaldes-engordany-ad06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.511",
+      "lon": "1.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Margineda",
+      "en": "La Margineda",
+      "slug": "la-margineda-ad07l014"
+    },
+    "code": {
+      "id": "AD07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD07",
+        "level": 1,
+        "name": {
+          "local": "Sant Julià de Lòria",
+          "en": "Sant Julià de Lòria",
+          "slug": "sant-julia-de-loria-ad07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.486",
+      "lon": "1.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Les Bons",
+      "en": "Les Bons",
+      "slug": "les-bons-ad05l006"
+    },
+    "code": {
+      "id": "AD05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.539",
+      "lon": "1.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD03L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Les Salines",
+      "en": "Les Salines",
+      "slug": "les-salines-ad03l007"
+    },
+    "code": {
+      "id": "AD03L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD03",
+        "level": 1,
+        "name": {
+          "local": "Ordino",
+          "en": "Ordino",
+          "slug": "ordino-ad03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.61",
+      "lon": "1.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD02L014",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Escas",
+      "en": "Escas",
+      "slug": "escas-ad02l014"
+    },
+    "code": {
+      "id": "AD02L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD02",
+        "level": 1,
+        "name": {
+          "local": "La Massana",
+          "en": "La Massana",
+          "slug": "la-massana-ad02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.546",
+      "lon": "1.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AD05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Localitat",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Molleres",
+      "en": "Molleres",
+      "slug": "molleres-ad05l007"
+    },
+    "code": {
+      "id": "AD05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AD05",
+        "level": 1,
+        "name": {
+          "local": "Encamp",
+          "en": "Encamp",
+          "slug": "encamp-ad05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.551",
+      "lon": "1.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

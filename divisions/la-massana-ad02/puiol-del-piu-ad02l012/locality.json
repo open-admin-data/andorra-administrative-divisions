@@ -1,0 +1,45 @@
+{
+  "id": "AD02L012",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Puiol del Piu",
+    "en": "Puiol del Piu",
+    "slug": "puiol-del-piu-ad02l012"
+  },
+  "code": {
+    "id": "AD02L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD02",
+    "level": 1,
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.565",
+    "lon": "1.492"
+  },
+  "metadata": {},
+  "source": {}
+}

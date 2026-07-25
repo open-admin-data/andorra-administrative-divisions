@@ -1,0 +1,45 @@
+{
+  "id": "AD05L004",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pas de la Case",
+    "en": "Pas de la Case",
+    "slug": "pas-de-la-case-ad05l004"
+  },
+  "code": {
+    "id": "AD05L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD05",
+    "level": 1,
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.543",
+    "lon": "1.734"
+  },
+  "metadata": {},
+  "source": {}
+}

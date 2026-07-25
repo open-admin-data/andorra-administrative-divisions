@@ -1,0 +1,14 @@
+# Andorra la Vella — Andorra Administrative Divisions
+
+> 1 localitys
+> Code: AD01
+> Coordinates: 42.511, 1.51
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Santa Coloma
+
+Code: AD01L001, Coordinates: 42.5, 1.5
+
+

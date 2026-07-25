@@ -1,0 +1,33 @@
+{
+  "id": "AD02",
+  "level": 1,
+  "level_name": {
+    "local": "Parròquia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "La Massana",
+    "en": "La Massana",
+    "slug": "la-massana-ad02"
+  },
+  "code": {
+    "id": "AD02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.554",
+    "lon": "1.463"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ad/parishes/la-massana-ad02/",
+    "api": "https://openadmindata.org/api/ad/"
+  }
+}

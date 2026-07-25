@@ -1,0 +1,45 @@
+{
+  "id": "AD05L002",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Meritxell",
+    "en": "Meritxell",
+    "slug": "meritxell-ad05l002"
+  },
+  "code": {
+    "id": "AD05L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD05",
+    "level": 1,
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.554",
+    "lon": "1.591"
+  },
+  "metadata": {},
+  "source": {}
+}

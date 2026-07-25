@@ -1,0 +1,44 @@
+# Ordino — Andorra Administrative Divisions
+
+> 7 localitys
+> Code: AD03
+> Coordinates: 42.607, 1.528
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Ansalonga
+
+Code: AD03L001, Coordinates: 42.569, 1.522
+
+
+### Arans
+
+Code: AD03L002, Coordinates: 42.582, 1.518
+
+
+### El Serrat
+
+Code: AD03L003, Coordinates: 42.618, 1.539
+
+
+### La Cortinada
+
+Code: AD03L004, Coordinates: 42.574, 1.518
+
+
+### Les Salines
+
+Code: AD03L007, Coordinates: 42.61, 1.537
+
+
+### Les Sobiranes
+
+Code: AD03L006, Coordinates: 42.62, 1.54
+
+
+### Llorts
+
+Code: AD03L005, Coordinates: 42.596, 1.527
+
+

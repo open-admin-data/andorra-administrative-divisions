@@ -1,0 +1,45 @@
+{
+  "id": "AD06L004",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Engordany",
+    "en": "Engordany",
+    "slug": "engordany-ad06l004"
+  },
+  "code": {
+    "id": "AD06L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD06",
+    "level": 1,
+    "name": {
+      "local": "Escaldes-Engordany",
+      "en": "Escaldes-Engordany",
+      "slug": "escaldes-engordany-ad06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.511",
+    "lon": "1.541"
+  },
+  "metadata": {},
+  "source": {}
+}

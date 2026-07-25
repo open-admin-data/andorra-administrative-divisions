@@ -1,0 +1,33 @@
+{
+  "id": "AD04",
+  "level": 1,
+  "level_name": {
+    "local": "Parròquia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Canillo",
+    "en": "Canillo",
+    "slug": "canillo-ad04"
+  },
+  "code": {
+    "id": "AD04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.592",
+    "lon": "1.656"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ad/parishes/canillo-ad04/",
+    "api": "https://openadmindata.org/api/ad/"
+  }
+}

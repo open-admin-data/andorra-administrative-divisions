@@ -1,0 +1,45 @@
+{
+  "id": "AD05L003",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Encamp",
+    "en": "Encamp",
+    "slug": "encamp-ad05l003"
+  },
+  "code": {
+    "id": "AD05L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD05",
+    "level": 1,
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.535",
+    "lon": "1.58"
+  },
+  "metadata": {},
+  "source": {}
+}

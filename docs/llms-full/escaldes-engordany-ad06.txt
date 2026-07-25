@@ -1,0 +1,29 @@
+# Escaldes-Engordany — Andorra Administrative Divisions
+
+> 4 localitys
+> Code: AD06
+> Coordinates: 42.49, 1.607
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Engordany
+
+Code: AD06L004, Coordinates: 42.511, 1.541
+
+
+### Ramio
+
+Code: AD06L002, Coordinates: 42.497, 1.574
+
+
+### Sant Miquel d&#39;Engolasters
+
+Code: AD06L003, Coordinates: 42.511, 1.56
+
+
+### Vila
+
+Code: AD06L001, Coordinates: 42.532, 1.567
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AD02L010",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "L'Aldosa",
+    "en": "L'Aldosa",
+    "slug": "l-aldosa-ad02l010"
+  },
+  "code": {
+    "id": "AD02L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD02",
+    "level": 1,
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.544",
+    "lon": "1.523"
+  },
+  "metadata": {},
+  "source": {}
+}

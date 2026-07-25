@@ -1,0 +1,45 @@
+{
+  "id": "AD02L007",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Anyós",
+    "en": "Anyós",
+    "slug": "anyos-ad02l007"
+  },
+  "code": {
+    "id": "AD02L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD02",
+    "level": 1,
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.535",
+    "lon": "1.525"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AD06L001",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vila",
+    "en": "Vila",
+    "slug": "vila-ad06l001"
+  },
+  "code": {
+    "id": "AD06L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD06",
+    "level": 1,
+    "name": {
+      "local": "Escaldes-Engordany",
+      "en": "Escaldes-Engordany",
+      "slug": "escaldes-engordany-ad06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.532",
+    "lon": "1.567"
+  },
+  "metadata": {},
+  "source": {}
+}

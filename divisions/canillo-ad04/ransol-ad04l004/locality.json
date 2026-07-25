@@ -1,0 +1,45 @@
+{
+  "id": "AD04L004",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ransol",
+    "en": "Ransol",
+    "slug": "ransol-ad04l004"
+  },
+  "code": {
+    "id": "AD04L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD04",
+    "level": 1,
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD04",
+      "level": 1,
+      "name": {
+        "local": "Canillo",
+        "en": "Canillo",
+        "slug": "canillo-ad04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.581",
+    "lon": "1.638"
+  },
+  "metadata": {},
+  "source": {}
+}

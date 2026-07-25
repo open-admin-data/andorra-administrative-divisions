@@ -1,0 +1,25 @@
+# Andorra Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Per-Parish Data Files
+
+- [Andorra la Vella](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/andorra-la-vella-ad01.txt) — 1 localitys
+- [La Massana](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/la-massana-ad02.txt) — 14 localitys
+- [Ordino](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/ordino-ad03.txt) — 7 localitys
+- [Canillo](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/canillo-ad04.txt) — 9 localitys
+- [Encamp](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/encamp-ad05.txt) — 7 localitys
+- [Escaldes-Engordany](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/escaldes-engordany-ad06.txt) — 4 localitys
+- [Sant Julià de Lòria](https://github.com/open-admin-data/andorra-administrative-divisions/blob/main/docs/llms-full/sant-julia-de-loria-ad07.txt) — 14 localitys
+
+## Summary
+
+| Parish | Localitys | 
+|---|---|
+| Andorra la Vella | 1 | 
+| La Massana | 14 | 
+| Ordino | 7 | 
+| Canillo | 9 | 
+| Encamp | 7 | 
+| Escaldes-Engordany | 4 | 
+| Sant Julià de Lòria | 14 | 

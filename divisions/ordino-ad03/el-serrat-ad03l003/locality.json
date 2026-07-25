@@ -1,0 +1,45 @@
+{
+  "id": "AD03L003",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "El Serrat",
+    "en": "El Serrat",
+    "slug": "el-serrat-ad03l003"
+  },
+  "code": {
+    "id": "AD03L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD03",
+    "level": 1,
+    "name": {
+      "local": "Ordino",
+      "en": "Ordino",
+      "slug": "ordino-ad03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD03",
+      "level": 1,
+      "name": {
+        "local": "Ordino",
+        "en": "Ordino",
+        "slug": "ordino-ad03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.618",
+    "lon": "1.539"
+  },
+  "metadata": {},
+  "source": {}
+}

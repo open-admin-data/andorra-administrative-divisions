@@ -1,0 +1,233 @@
+[
+  {
+    "id": "AD01",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Andorra la Vella",
+      "en": "Andorra la Vella",
+      "slug": "andorra-la-vella-ad01"
+    },
+    "code": {
+      "id": "AD01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.511",
+      "lon": "1.51"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/andorra-la-vella-ad01/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD02",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    },
+    "code": {
+      "id": "AD02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.554",
+      "lon": "1.463"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/la-massana-ad02/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD03",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Ordino",
+      "en": "Ordino",
+      "slug": "ordino-ad03"
+    },
+    "code": {
+      "id": "AD03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.607",
+      "lon": "1.528"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/ordino-ad03/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD04",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Canillo",
+      "en": "Canillo",
+      "slug": "canillo-ad04"
+    },
+    "code": {
+      "id": "AD04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.592",
+      "lon": "1.656"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/canillo-ad04/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD05",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    },
+    "code": {
+      "id": "AD05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.541",
+      "lon": "1.66"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/encamp-ad05/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD06",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Escaldes-Engordany",
+      "en": "Escaldes-Engordany",
+      "slug": "escaldes-engordany-ad06"
+    },
+    "code": {
+      "id": "AD06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.49",
+      "lon": "1.607"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/escaldes-engordany-ad06/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  },
+  {
+    "id": "AD07",
+    "level": 1,
+    "level_name": {
+      "local": "Parròquia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-loria-ad07"
+    },
+    "code": {
+      "id": "AD07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.466",
+      "lon": "1.474"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ad/parishes/sant-julia-de-loria-ad07/",
+      "api": "https://openadmindata.org/api/ad/"
+    }
+  }
+]

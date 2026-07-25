@@ -1,0 +1,45 @@
+{
+  "id": "AD06L003",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sant Miquel d'Engolasters",
+    "en": "Sant Miquel d'Engolasters",
+    "slug": "sant-miquel-d-engolasters-ad06l003"
+  },
+  "code": {
+    "id": "AD06L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD06",
+    "level": 1,
+    "name": {
+      "local": "Escaldes-Engordany",
+      "en": "Escaldes-Engordany",
+      "slug": "escaldes-engordany-ad06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.511",
+    "lon": "1.56"
+  },
+  "metadata": {},
+  "source": {}
+}

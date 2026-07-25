@@ -1,0 +1,9 @@
+# Data from Open Admin Data (https://openadmindata.org/ad/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/andorra-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.parish,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+AD01,1,Parròquia,Parish,Andorra la Vella,Andorra la Vella,andorra-la-vella-ad01,AD01,,,,,,1,,42.511,1.51,https://openadmindata.org/ad/parishes/andorra-la-vella-ad01/
+AD02,1,Parròquia,Parish,La Massana,La Massana,la-massana-ad02,AD02,,,,,,14,,42.554,1.463,https://openadmindata.org/ad/parishes/la-massana-ad02/
+AD03,1,Parròquia,Parish,Ordino,Ordino,ordino-ad03,AD03,,,,,,7,,42.607,1.528,https://openadmindata.org/ad/parishes/ordino-ad03/
+AD04,1,Parròquia,Parish,Canillo,Canillo,canillo-ad04,AD04,,,,,,9,,42.592,1.656,https://openadmindata.org/ad/parishes/canillo-ad04/
+AD05,1,Parròquia,Parish,Encamp,Encamp,encamp-ad05,AD05,,,,,,7,,42.541,1.66,https://openadmindata.org/ad/parishes/encamp-ad05/
+AD06,1,Parròquia,Parish,Escaldes-Engordany,Escaldes-Engordany,escaldes-engordany-ad06,AD06,,,,,,4,,42.49,1.607,https://openadmindata.org/ad/parishes/escaldes-engordany-ad06/
+AD07,1,Parròquia,Parish,Sant Julià de Lòria,Sant Julià de Lòria,sant-julia-de-loria-ad07,AD07,,,,,,14,,42.466,1.474,https://openadmindata.org/ad/parishes/sant-julia-de-loria-ad07/

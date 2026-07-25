@@ -1,0 +1,45 @@
+{
+  "id": "AD07L013",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Aixas",
+    "en": "Aixas",
+    "slug": "aixas-ad07l013"
+  },
+  "code": {
+    "id": "AD07L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD07",
+    "level": 1,
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-loria-ad07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.486",
+    "lon": "1.468"
+  },
+  "metadata": {},
+  "source": {}
+}

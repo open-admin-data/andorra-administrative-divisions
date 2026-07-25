@@ -1,0 +1,45 @@
+{
+  "id": "AD07L010",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Llumeneres",
+    "en": "Llumeneres",
+    "slug": "llumeneres-ad07l010"
+  },
+  "code": {
+    "id": "AD07L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD07",
+    "level": 1,
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-loria-ad07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.472",
+    "lon": "1.512"
+  },
+  "metadata": {},
+  "source": {}
+}

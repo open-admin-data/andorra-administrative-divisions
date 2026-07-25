@@ -1,0 +1,45 @@
+{
+  "id": "AD07L004",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mas d'Alins",
+    "en": "Mas d'Alins",
+    "slug": "mas-d-alins-ad07l004"
+  },
+  "code": {
+    "id": "AD07L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD07",
+    "level": 1,
+    "name": {
+      "local": "Sant Julià de Lòria",
+      "en": "Sant Julià de Lòria",
+      "slug": "sant-julia-de-loria-ad07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD07",
+      "level": 1,
+      "name": {
+        "local": "Sant Julià de Lòria",
+        "en": "Sant Julià de Lòria",
+        "slug": "sant-julia-de-loria-ad07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.441",
+    "lon": "1.449"
+  },
+  "metadata": {},
+  "source": {}
+}

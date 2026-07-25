@@ -1,0 +1,45 @@
+{
+  "id": "AD05L005",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bordes d'Envalira",
+    "en": "Bordes d'Envalira",
+    "slug": "bordes-d-envalira-ad05l005"
+  },
+  "code": {
+    "id": "AD05L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD05",
+    "level": 1,
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.56",
+    "lon": "1.686"
+  },
+  "metadata": {},
+  "source": {}
+}

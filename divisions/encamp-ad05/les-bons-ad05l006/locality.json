@@ -1,0 +1,45 @@
+{
+  "id": "AD05L006",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Les Bons",
+    "en": "Les Bons",
+    "slug": "les-bons-ad05l006"
+  },
+  "code": {
+    "id": "AD05L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD05",
+    "level": 1,
+    "name": {
+      "local": "Encamp",
+      "en": "Encamp",
+      "slug": "encamp-ad05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD05",
+      "level": 1,
+      "name": {
+        "local": "Encamp",
+        "en": "Encamp",
+        "slug": "encamp-ad05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.539",
+    "lon": "1.586"
+  },
+  "metadata": {},
+  "source": {}
+}

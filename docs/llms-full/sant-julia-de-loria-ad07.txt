@@ -1,0 +1,79 @@
+# Sant Julià de Lòria — Andorra Administrative Divisions
+
+> 14 localitys
+> Code: AD07
+> Coordinates: 42.466, 1.474
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Aixas
+
+Code: AD07L013, Coordinates: 42.486, 1.468
+
+
+### Aixirivall
+
+Code: AD07L007, Coordinates: 42.463, 1.503
+
+
+### Aixovall
+
+Code: AD07L009, Coordinates: 42.476, 1.489
+
+
+### Aubinya
+
+Code: AD07L011, Coordinates: 42.453, 1.492
+
+
+### Bixessarri
+
+Code: AD07L005, Coordinates: 42.482, 1.459
+
+
+### Certers
+
+Code: AD07L006, Coordinates: 42.475, 1.506
+
+
+### Fontaneda
+
+Code: AD07L008, Coordinates: 42.454, 1.464
+
+
+### Juberri
+
+Code: AD07L003, Coordinates: 42.441, 1.49
+
+
+### La Margineda
+
+Code: AD07L014, Coordinates: 42.486, 1.49
+
+
+### La Massana
+
+Code: AD07L002, Coordinates: 42.485, 1.49
+
+
+### Llumeneres
+
+Code: AD07L010, Coordinates: 42.472, 1.512
+
+
+### Mas d&#39;Alins
+
+Code: AD07L004, Coordinates: 42.441, 1.449
+
+
+### Nagol
+
+Code: AD07L012, Coordinates: 42.471, 1.502
+
+
+### Sant Julià de Lòria
+
+Code: AD07L001, Coordinates: 42.467, 1.492
+
+

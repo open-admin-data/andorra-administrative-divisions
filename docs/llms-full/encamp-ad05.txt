@@ -1,0 +1,44 @@
+# Encamp — Andorra Administrative Divisions
+
+> 7 localitys
+> Code: AD05
+> Coordinates: 42.541, 1.66
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Bordes d&#39;Envalira
+
+Code: AD05L005, Coordinates: 42.56, 1.686
+
+
+### Encamp
+
+Code: AD05L003, Coordinates: 42.535, 1.58
+
+
+### Les Bons
+
+Code: AD05L006, Coordinates: 42.539, 1.586
+
+
+### Meritxell
+
+Code: AD05L002, Coordinates: 42.554, 1.591
+
+
+### Molleres
+
+Code: AD05L007, Coordinates: 42.551, 1.59
+
+
+### Pas de la Case
+
+Code: AD05L004, Coordinates: 42.543, 1.734
+
+
+### Prats
+
+Code: AD05L001, Coordinates: 42.56, 1.594
+
+

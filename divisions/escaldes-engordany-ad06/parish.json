@@ -1,0 +1,33 @@
+{
+  "id": "AD06",
+  "level": 1,
+  "level_name": {
+    "local": "Parròquia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Escaldes-Engordany",
+    "en": "Escaldes-Engordany",
+    "slug": "escaldes-engordany-ad06"
+  },
+  "code": {
+    "id": "AD06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.49",
+    "lon": "1.607"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ad/parishes/escaldes-engordany-ad06/",
+    "api": "https://openadmindata.org/api/ad/"
+  }
+}

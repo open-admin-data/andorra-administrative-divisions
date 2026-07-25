@@ -1,0 +1,45 @@
+{
+  "id": "AD06L002",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ramio",
+    "en": "Ramio",
+    "slug": "ramio-ad06l002"
+  },
+  "code": {
+    "id": "AD06L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD06",
+    "level": 1,
+    "name": {
+      "local": "Escaldes-Engordany",
+      "en": "Escaldes-Engordany",
+      "slug": "escaldes-engordany-ad06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD06",
+      "level": 1,
+      "name": {
+        "local": "Escaldes-Engordany",
+        "en": "Escaldes-Engordany",
+        "slug": "escaldes-engordany-ad06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.497",
+    "lon": "1.574"
+  },
+  "metadata": {},
+  "source": {}
+}

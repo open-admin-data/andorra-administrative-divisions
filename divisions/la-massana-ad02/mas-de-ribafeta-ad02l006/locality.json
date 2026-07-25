@@ -1,0 +1,45 @@
+{
+  "id": "AD02L006",
+  "level": 2,
+  "level_name": {
+    "local": "Localitat",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mas de Ribafeta",
+    "en": "Mas de Ribafeta",
+    "slug": "mas-de-ribafeta-ad02l006"
+  },
+  "code": {
+    "id": "AD02L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AD02",
+    "level": 1,
+    "name": {
+      "local": "La Massana",
+      "en": "La Massana",
+      "slug": "la-massana-ad02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AD02",
+      "level": 1,
+      "name": {
+        "local": "La Massana",
+        "en": "La Massana",
+        "slug": "la-massana-ad02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.569",
+    "lon": "1.488"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,54 @@
+# Canillo — Andorra Administrative Divisions
+
+> 9 localitys
+> Code: AD04
+> Coordinates: 42.592, 1.656
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Canillo
+
+Code: AD04L002, Coordinates: 42.567, 1.599
+
+
+### el Tarter
+
+Code: AD04L001, Coordinates: 42.581, 1.652
+
+
+### El Vilar
+
+Code: AD04L006, Coordinates: 42.572, 1.608
+
+
+### Els Plans
+
+Code: AD04L005, Coordinates: 42.581, 1.633
+
+
+### Incles
+
+Code: AD04L008, Coordinates: 42.583, 1.663
+
+
+### l&#39;Aldosa de canillo
+
+Code: AD04L003, Coordinates: 42.579, 1.629
+
+
+### Ransol
+
+Code: AD04L004, Coordinates: 42.581, 1.638
+
+
+### Sant Joan de Caselles
+
+Code: AD04L009, Coordinates: 42.571, 1.608
+
+
+### Soldeu
+
+Code: AD04L007, Coordinates: 42.577, 1.668
+
+
