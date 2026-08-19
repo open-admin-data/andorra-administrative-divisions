@@ -14,7 +14,7 @@
 | Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/ad](https://openadmindata.org/ad/) |
 | API | [openadmindata.org/api/ad](https://openadmindata.org/api/ad/) |
-| National Anthem | [🎵 Listen & Download](https://onlygames.me/national-anthems/ad/) |
+| National Anthem | [🎵 Listen & Download Andorra National Anthem MP3](https://onlygames.me/national-anthems/ad/) |
 
 ## Browse by Parish
 
