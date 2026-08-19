@@ -3,7 +3,7 @@
 > 1 localitys
 > Code: AD01
 > Coordinates: 42.511, 1.51
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

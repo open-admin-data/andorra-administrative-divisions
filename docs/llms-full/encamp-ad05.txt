@@ -3,7 +3,7 @@
 > 7 localitys
 > Code: AD05
 > Coordinates: 42.541, 1.66
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

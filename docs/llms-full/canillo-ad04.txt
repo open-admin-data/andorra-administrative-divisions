@@ -3,7 +3,7 @@
 > 9 localitys
 > Code: AD04
 > Coordinates: 42.592, 1.656
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

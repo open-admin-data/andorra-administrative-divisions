@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-25 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/ad](https://openadmindata.org/ad/) |
 | API | [openadmindata.org/api/ad](https://openadmindata.org/api/ad/) |
+| National Anthem | [🎵 Listen & Download](https://onlygames.me/national-anthems/ad/) |
 
 ## Browse by Parish
 
