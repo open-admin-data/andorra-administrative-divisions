@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/ad](https://openadmindata.org/ad/) |
 | API | [openadmindata.org/api/ad](https://openadmindata.org/api/ad/) |
+| Flag | [PNG](https://onlygames.me/flags-png/ad/) · [SVG](https://onlygames.me/flags-svg/ad/) · [PDF](https://onlygames.me/flags-pdf/ad/) |
 | National Anthem | [🎵 Listen & Download Andorra National Anthem MP3](https://onlygames.me/national-anthems/ad/) |
 
 ## Browse by Parish
